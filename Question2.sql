@@ -1,0 +1,81 @@
+-- Spartans Table – include details about all the Spartans on this course. Separate Title, 
+-- First Name and Last Name into separate columns, 
+-- and include University attended, course taken and mark achieved.
+--  Add any other columns you feel would be appropriate.
+
+
+-- CREATE Table spartans(
+-- Title VARCHAR(10),
+-- FirstName VARCHAR(10),
+-- LastName VARCHAR(10),
+-- University VARCHAR(50),
+-- CourseTaken VARCHAR (100),
+-- MarkAchieved VARCHAR(20),
+-- GraudationDate DATETIME
+-- );
+-- INSERT INTO spartans (
+-- Title ,
+--  FirstName,
+--  LastName ,
+--  University ,
+-- CourseTaken,
+--  MarkAchieved ,
+-- GraudationDate
+-- )
+-- VALUES(
+-- 'Miss',
+-- 'Yolanda',
+-- 'Simpsoon',
+-- 'The university of northampton',
+-- 'computing(computer systems engineering)',
+-- 'Upper 2nd class',
+-- '2018/07/25'
+-- );
+--  INSERT INTO spartans(
+--  Title ,
+--  FirstName,
+-- LastName ,
+--  University ,
+--  CourseTaken,
+--  MarkAchieved ,
+-- GraudationDate
+-- )
+--  VALUES(
+--  'Miss',
+--  'Faduma',
+--  'Hussein',
+--  'St Georges University of London',
+--  'Biomedical Science',
+--  'lower 2nd class',
+--  '2014/07/17'
+
+-- ),
+-- -- (
+-- -- 'Miss',
+-- -- 'Mishu',
+-- -- 'Jahur',
+-- -- 'Queen mary university of london',
+-- -- 'Mathermatics',
+-- -- 'First',
+-- -- '2018/08/27'
+-- -- ),
+
+--  (
+--  'Mr',
+-- 'Jerome',
+--  'Hanciles',
+--  'Middlesex University',
+--  '3D Animation and games',
+-- 'Third',
+--  '2014/07/17'
+-- ),
+--
+-- 'Mr',
+-- 'Thomas',
+-- 'Dam',
+-- 'Keele University',
+-- 'Psychology',
+-- 'Upper 2nd Class',
+-- '2018/07/24'
+-- );
+
